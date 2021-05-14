@@ -1,0 +1,20 @@
+﻿D:\vistua\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (gameSDLdemo.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  amo.cpp
+C:\Users\Admin\Documents\Game\gameSDLdemo\common_function.h(5,9): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  base_Object.cpp
+C:\Users\Admin\Documents\Game\gameSDLdemo\common_function.h(5,9): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  common_function.cpp
+C:\Users\Admin\Documents\Game\gameSDLdemo\common_function.h(5,9): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Explosion_Object.cpp
+C:\Users\Admin\Documents\Game\gameSDLdemo\common_function.h(5,9): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  main.cpp
+C:\Users\Admin\Documents\Game\gameSDLdemo\common_function.h(5,9): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  main_Object.cpp
+C:\Users\Admin\Documents\Game\gameSDLdemo\common_function.h(5,9): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  player_number.cpp
+C:\Users\Admin\Documents\Game\gameSDLdemo\common_function.h(5,9): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  text_object.cpp
+C:\Users\Admin\Documents\Game\gameSDLdemo\common_function.h(5,9): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  threats_object.cpp
+C:\Users\Admin\Documents\Game\gameSDLdemo\common_function.h(5,9): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Generating Code...
